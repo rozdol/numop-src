@@ -1,6 +1,6 @@
 {
-    "name": "rozdol/numop-assets",
-    "description": "Test assets",
+    "name": "rozdol/numop-src",
+    "description": "Test src",
     "type": "vanilla-theme",
     "license": "MIT",
     "repositories": [
