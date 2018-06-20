@@ -1,0 +1,24 @@
+{
+    "name": "rozdol/numop-assets",
+    "description": "Test assets",
+    "type": "vanilla-theme",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:rozdol/numop-src.git"
+        }
+    ],
+    "extra": {
+        "installer-name": "src"
+    },
+    "require": {
+        "php": ">=5.3",
+        "composer/installers": "^1.1"
+    },
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+
+}
